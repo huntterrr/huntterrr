@@ -51,6 +51,6 @@
 <h2 align="left">Connect With Me</h2>
 
 <p align="left">
-  <a href="[LinkedIn](YourLinkedInURL)"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Your%20Name-blue?style=flat-square&logo=linkedin"></a>
+  <a href="[LinkedIn](www.linkedin.com/in/huseyn-haciyev-5201aa2a3)"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Your%20Name-blue?style=flat-square&logo=linkedin"></a>
   <a href="mailto:haciyevhuseyn2008@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-haciyevhuseyn2008@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
