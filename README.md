@@ -52,5 +52,5 @@
 
 <p align="left">
   <a href="[LinkedIn](YourLinkedInURL)"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Your%20Name-blue?style=flat-square&logo=linkedin"></a>
-  <a href="mailto:youremail@example.com"><img alt="Email" src="https://img.shields.io/badge/Email-youremail@example.com-blue?style=flat-square&logo=gmail">haciyevhuseyn2008@gmail.com</a>
+  <a href="mailto:haciyevhuseyn2008@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-youremail@example.com-blue?style=flat-square&logo=gmail"></a>
 </p>
