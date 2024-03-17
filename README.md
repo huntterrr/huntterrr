@@ -29,7 +29,7 @@
 ### Competitive Programming Portfolio
 - My solutions to various algorithmic challenges, showcasing analytical abilities and coding practices.
 - **Platforms:** Codeforces, LeetCode
-- **Achievements:** Top X% rank, Over Y problems solved
+- **Achievements:** Over 800 problems solved
 
 <h2 align="left">I Code With</h2>
 
