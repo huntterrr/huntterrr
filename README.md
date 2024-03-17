@@ -1,6 +1,6 @@
 <h1 align="left">Hey 👋, I'm Huseyn</h1>
 
-<p align="left">I'm a C++ developer from Russia. Specializing in creating efficient and scalable applications, I have a strong command over C++, PostgreSQL, Boost, and Qt. My expertise also includes modern development practices and tools, like Docker for containerization and CMake for cross-platform build automation. Besides my professional projects, I engage in competitive programming to sharpen my problem-solving skills and algorithmic thinking.</p>
+<p align="left">I'm a C++ developer from Russia. I have a strong command over C++, PostgreSQL, Boost, and Qt. Specializing in creating efficient and scalable applications. My expertise also includes modern development practices and tools, like Docker for containerization and CMake for cross-platform build automation. Besides my professional projects, I engage in competitive programming to sharpen my problem-solving skills and algorithmic thinking.</p>
 
 <h2 align="left">About Me</h2>
 
