@@ -1,56 +1,16 @@
-<h1 align="left">Hey 👋, I'm Huseyn</h1>
+<h2>Professional Profile</h2>
+<ul>
+    <li><strong>Enthusiastic C++ Developer</strong>: Eager to learn new technologies and advance in the programming field.</li>
+    <li><strong>Proficient in Modern Tools</strong>: Skilled in C++, Boost, Asio, PostgreSQL, object-oriented programming, Git, Windows, and network technologies.</li>
+    <li><strong>Motivated and Goal-Oriented</strong>: Committed to continuous learning, growth, and achieving high standards in software development.</li>
+</ul>
 
-<p align="left">I'm a C++ developer from Russia. I have a strong command over C++, PostgreSQL, Boost, and Qt. Specializing in creating efficient and scalable applications. My expertise also includes modern development practices and tools, like Docker for containerization and CMake for cross-platform build automation. Besides my professional projects, I engage in competitive programming to sharpen my problem-solving skills and algorithmic thinking.</p>
-
-<h2 align="left">About Me</h2>
-
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently deepening my knowledge in C++ and related technologies<br>🎯 Goals: To become a senior software developer and contribute to cutting-edge projects</p>
-
-<h2 align="left">Skills</h2>
-
-- **Programming Languages:** Proficient in C++
-- **Databases:** Experienced with PostgreSQL
-- **Libraries/Frameworks:** Boost, Qt
-- **Tools:** Docker, CMake
-- **Concepts:** Asynchronous Programming, Competitive Programming, Software Design Patterns
-
-<h2 align="left">Projects</h2>
-
-### Scalable Web Service
-- A high-performance web service leveraging asynchronous programming in C++ with Boost and Docker for containerized deployment. Showcases design for scalability and automation with CMake.
-- **Technologies used:** C++, Boost Asio, Docker, CMake, PostgreSQL
-- **Key Features:** High scalability, Containerization, Cross-platform build automation
-
-### Cross-Platform Desktop Application
-- A Qt-based desktop application that runs seamlessly on Windows, macOS, and Linux, highlighting proficiency in user-friendly interfaces and CMake for build management.
-- **Technologies used:** C++, Qt, CMake
-- **Key Features:** Cross-platform compatibility, Modern UI/UX design
-
-### Competitive Programming Portfolio
-- My solutions to various algorithmic challenges, showcasing analytical abilities and coding practices.
-- **Platforms:** Codeforces, LeetCode
-- **Achievements:** Over 800 problems solved
-
-<h2 align="left">I Code With</h2>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="40" alt="qt logo" />
-  <img width="12" />
-  <!-- Adding PostgreSQL, Docker, and CMake logos -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="40" alt="cmake logo" />
-</div>
-
-###
-
-<h2 align="left">Connect With Me</h2>
-
-<p align="left">
-  <a href="[LinkedIn](www.linkedin.com/in/huseyn-haciyev-5201aa2a3)"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Haciyev Huseyn-blue?style=flat-square&logo=linkedin"></a>
-  <a href="mailto:haciyevhuseyn2008@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-haciyevhuseyn2008@gmail.com-blue?style=flat-square&logo=gmail"></a>
-</p>
+<h2>Skills Summary</h2>
+<ul>
+    <li><strong>Programming Languages</strong>: C++, C, Python (sorted by proficiency)</li>
+    <li><strong>Web Technologies</strong>: HTML, CSS, JSON</li>
+    <li><strong>Version Control Systems</strong>: Git</li>
+    <li><strong>Databases</strong>: Oracle DB, PostgreSQL</li>
+    <li><strong>Operating Systems</strong>: Windows Family</li>
+    <li><strong>Foreign Languages</strong>: English - B2 (Upper Intermediate)</li>
+</ul>
