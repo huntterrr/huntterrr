@@ -9,6 +9,7 @@
 <h2>Skills Summary</h2>
 <ul>
   <li><strong>Programming Languages</strong>: C++, C, Python (sorted by proficiency)</li>
+  <li><strong>Technologies</strong>: Boost, Asio, TCP/IP, UDP, HTTP, OpenSSL</li>
   <li><strong>Web Technologies</strong>: HTML, CSS, JSON</li>
   <li><strong>Version Control Systems</strong>: Git</li>
   <li><strong>Databases</strong>: PostgreSQL</li>
