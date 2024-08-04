@@ -1,9 +1,9 @@
 <h2>Skills Summary</h2>
 <ul>
-  <li><strong>Programming Languages</strong>: C++, C, Python (sorted by proficiency)</li>
-  <li><strong>Technologies</strong>: Boost, Asio, TCP/IP, UDP, HTTP</li>
-  <li><strong>Databases</strong>: PostgreSQL</li>
-  <li><strong>Web Technologies</strong>: HTML, CSS, JSON</li>
+  <li><strong>Programming Languages</strong>: C++20, Python</li>
+  <li><strong>Technologies</strong>: Qt, Boost, Asio, Algorithms & Data Structures, Networking, SOLID</li>
+  <li><strong>Databases</strong>: SQL, PostgreSQL (libpq++)</li>
+  <li><strong>Web Technologies</strong>: HTTP, TCP/IP, UDP, ICMP, HTML, JSON</li>
   <li><strong>Version Control Systems</strong>: Git</li>
   <li><strong>Operating Systems</strong>: Windows Family</li>
   <li><strong>Foreign Languages</strong>: English - B2 (Upper Intermediate)</li>
