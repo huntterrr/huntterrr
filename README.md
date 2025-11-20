@@ -5,8 +5,6 @@
   <li><strong>Databases</strong>: SQL, PostgreSQL (libpq++)</li>
   <li><strong>Web Technologies</strong>: HTTP, TCP/IP, UDP, ICMP, HTML, JSON</li>
   <li><strong>Version Control Systems</strong>: Git</li>
-  <li><strong>Operating Systems</strong>: Windows Family</li>
-  <li><strong>Foreign Languages</strong>: English - B2 (Upper Intermediate)</li>
 </ul>
 
 <h2>Professional Profile</h2>
